@@ -1,5 +1,7 @@
 <!-- Profile Banner -->
-<img src="https://github.com/shivanjali712/shivanjali712/blob/main/asset/banner.png" width="100%" alt="Welcome Banner">
+<p align="center">
+  <img src="https://github.com/shivanjali712/shivanjali712/blob/main/asset/Banner.png" width="50%" alt="Welcome Banner">
+</p>
 
 <h2 align="center">Hi, I'm Shivanjali 👋 | Data Analyst | Storytelling with Data 📊</h2>
 
