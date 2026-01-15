@@ -14,7 +14,7 @@
 ---
 
 ### 💡 About Me
-- 🔍 Data Analyst working as an MIS Executive (Reporting & Analytics) at **Maruti Suzuki**
+- 🔍 Data Analyst working as an MIS Executive (Reporting & Analytics) at **Maruti Suzuki India Limited**
 - 📊 Hands-on experience with **SQL, Power BI, Advanced Excel, and Python**
 - 🏢 Interned as Data Analyst @ **AI Variant** – built dashboards for Crowdfunding and Manufacturing analytics
 - 📈 Skilled in dashboard development, report automation, KPI tracking, and trend analysis
