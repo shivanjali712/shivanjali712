@@ -14,12 +14,13 @@
 ---
 
 ### 💡 About Me
-- 🔍 Data Analyst with hands-on experience in **SQL**, **Power BI**, **Tableau**, **Excel**, and **Python**
-- 🏢 Internship @ **AI Variant** | Built dashboards for **Crowdfunding**, **Manufacturing**, and **Healthcare KPIs**
+- 🔍 Data Analyst working as an MIS Executive (Reporting & Analytics) at **Maruti Suzuki**
+- 📊 Hands-on experience with **SQL, Power BI, Advanced Excel, and Python**
+- 🏢 Interned as Data Analyst @ **AI Variant** – built dashboards for Crowdfunding and Manufacturing analytics
+- 📈 Skilled in dashboard development, report automation, KPI tracking, and trend analysis
+- 💬 Strong at translating raw data into clear, actionable business insights
 - 📚 Certified in Data Analytics – **ExcelR**
-- 💬 Passionate about turning raw data into business insights
-- 🎯 Currently learning advanced **Data Science & Python**
-
+- 🎯 Currently strengthening **SQL, Power BI (DAX & data modeling), and Python for analytics**
 ---
 
 ### 🚀 Tech Stack
