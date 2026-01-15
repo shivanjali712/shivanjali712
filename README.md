@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 - 🔍 Data Analyst with hands-on experience in **SQL**, **Power BI**, **Tableau**, **Excel**, and **Python**
-- 🏢 MIS Reporting & Analytics  @ **Maruti Suzuki India Limited** | Built dashboards for **Crowdfunding**, **Manufacturing**, and **Healthcare KPIs**
+- 🏢 Internship @ **AI Variant** | Built dashboards for **Crowdfunding**, **Manufacturing**, and **Healthcare KPIs**
 - 📚 Certified in Data Analytics – **ExcelR**
 - 💬 Passionate about turning raw data into business insights
 - 🎯 Currently learning advanced **Data Science & Python**
