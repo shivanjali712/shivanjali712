@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-- 📊 Data Analyst with 1+ years experience at **Maruti Suzuki India Limited** — operations, sales & service analytics
+- 📊 Data Analyst with 1+ years experience, working at **Maruti Suzuki India Limited** — operations, sales & service analytics
 - 🔧 Built 15+ dashboards across Power BI, Tableau, and Excel used by senior leadership for KPI reviews
 - 🐍 Python (Pandas, EDA) | SQL (CTEs, Window Functions) | Power BI (DAX, Data Modelling)
 - 🏭 Domain expertise in **Operations Analytics, Customer Experience & Service Performance**
